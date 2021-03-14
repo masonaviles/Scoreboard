@@ -52,19 +52,19 @@ class App extends React.Component {
   state = {
     players: [
       {
-        name: "Guil",
+        name: "Mason",
         id: 1
       },
       {
-        name: "Treasure",
+        name: "Zidane",
         id: 2
       },
       {
-        name: "Ashley",
+        name: "Tidus",
         id: 3
       },
       {
-        name: "James",
+        name: "Cloud",
         id: 4
       }
     ]
